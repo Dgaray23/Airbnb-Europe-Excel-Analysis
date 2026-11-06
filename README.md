@@ -55,7 +55,7 @@ The Period slicer is deliberately not connected to the weekend premium chart, be
 | `Q1_price_by_city` … `Q5_Room_Types` | One PivotTable per question |
 | `KPI_Calc` | Helper PivotTables that feed the KPI cards |
 
-The `data/` folder holds the 20 original CSV files. To refresh the Power Query steps yourself, put them in `C:\Airbnb_Europe\data\` or edit each query's Source step to point to your folder. Opening the workbook doesn't need a refresh.
+The `data/` folder holds the 20 original CSV files. To refresh the Power Query steps on your own computer, edit each query’s Source step (the ⚙️ next to Source) to point to where you saved the CSVs. Opening the workbook doesn't need a refresh.
 
 ## Notes and limitations
 
